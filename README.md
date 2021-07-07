@@ -31,7 +31,7 @@ yarn add @nghinv/react-native-badge
 ```js
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import Switch from '@nghinv/react-native-badge';
+import Badge from '@nghinv/react-native-badge';
 
 function App() {
   return (
