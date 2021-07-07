@@ -100,8 +100,8 @@ export default App;
 | labelColor | `string` | `white` |  |
 | backgroundColor | `string` | `#f44336` |  |
 | containerStyle | `StyleProp<ViewStyle>` |  |
-| labelStyle | `TextStyle` | `` |  |
-| labelFormatterLimit | `0 \| 1 \| 2 \| 3 \| 4` | `` |  |
+| labelStyle | `TextStyle` | `undefined` |  |
+| labelFormatterLimit | `0 \| 1 \| 2 \| 3 \| 4` | `undefined` |  |
 | labelProps | `TextProps` | `undefined` |  |
 
 
