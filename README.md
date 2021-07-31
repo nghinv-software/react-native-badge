@@ -17,13 +17,13 @@ React Native Badge Library
 ## Installation
 
 ```sh
-npm install @nghinv/react-native-badge
+yarn add @nghinv/react-native-badge
 ```
 
 or 
 
 ```sh
-yarn add @nghinv/react-native-badge
+npm install @nghinv/react-native-badge
 ```
 
 ## Usage
@@ -106,6 +106,11 @@ export default App;
 
 
 BadgeSizes = `pimpleSmall` | `pimpleBig` | `pimpleHuge` | `small` | `default` | `large`
+
+---
+## Credits
+
+- [@Nghi-NV](https://github.com/Nghi-NV)
 
 [version-badge]: https://img.shields.io/npm/v/@nghinv/react-native-badge.svg?style=flat-square
 [package]: https://www.npmjs.com/package/@nghinv/react-native-badge

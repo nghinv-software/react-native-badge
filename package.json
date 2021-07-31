@@ -1,6 +1,6 @@
 {
   "name": "@nghinv/react-native-badge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native badge Library",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -26,7 +26,9 @@
     "react-native",
     "ios",
     "android",
-    "badge"
+    "badge",
+    "nghinv",
+    "react-native-badge"
   ],
   "repository": "https://github.com/nghinv-software/react-native-badge",
   "author": "NghiNV <nguyennghidt6@gmail.com> (https://github.com/nghi-nv)",
@@ -36,9 +38,7 @@
   },
   "homepage": "https://github.com/nghinv-software/react-native-badge#readme",
   "publishConfig": {
-    "access": "public",
-    "cache": "~/.npm",
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
